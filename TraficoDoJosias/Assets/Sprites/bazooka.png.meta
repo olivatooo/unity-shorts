@@ -1,0 +1,2482 @@
+fileFormatVersion: 2
+guid: 121027ed61ebc4195bfdf0b3935c780e
+timeCreated: 1506356501
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bazooka_0
+    21300002: bazooka_1
+    21300004: bazooka_2
+    21300006: bazooka_3
+    21300008: bazooka_4
+    21300010: bazooka_5
+    21300012: bazooka_6
+    21300014: bazooka_7
+    21300016: bazooka_8
+    21300018: bazooka_9
+    21300020: bazooka_10
+    21300022: bazooka_11
+    21300024: bazooka_12
+    21300026: bazooka_13
+    21300028: bazooka_14
+    21300030: bazooka_15
+    21300032: bazooka_16
+    21300034: bazooka_17
+    21300036: bazooka_18
+    21300038: bazooka_19
+    21300040: bazooka_20
+    21300042: bazooka_21
+    21300044: bazooka_22
+    21300046: bazooka_23
+    21300048: bazooka_24
+    21300050: bazooka_25
+    21300052: bazooka_26
+    21300054: bazooka_27
+    21300056: bazooka_28
+    21300058: bazooka_29
+    21300060: bazooka_30
+    21300062: bazooka_31
+    21300064: bazooka_32
+    21300066: bazooka_33
+    21300068: bazooka_34
+    21300070: bazooka_35
+    21300072: bazooka_36
+    21300074: bazooka_37
+    21300076: bazooka_38
+    21300078: bazooka_39
+    21300080: bazooka_40
+    21300082: bazooka_41
+    21300084: bazooka_42
+    21300086: bazooka_43
+    21300088: bazooka_44
+    21300090: bazooka_45
+    21300092: bazooka_46
+    21300094: bazooka_47
+    21300096: bazooka_48
+    21300098: bazooka_49
+    21300100: bazooka_50
+    21300102: bazooka_51
+    21300104: bazooka_52
+    21300106: bazooka_53
+    21300108: bazooka_54
+    21300110: bazooka_55
+    21300112: bazooka_56
+    21300114: bazooka_57
+    21300116: bazooka_58
+    21300118: bazooka_59
+    21300120: bazooka_60
+    21300122: bazooka_61
+    21300124: bazooka_62
+    21300126: bazooka_63
+    21300128: bazooka_64
+    21300130: bazooka_65
+    21300132: bazooka_66
+    21300134: bazooka_67
+    21300136: bazooka_68
+    21300138: bazooka_69
+    21300140: bazooka_70
+    21300142: bazooka_71
+    21300144: bazooka_72
+    21300146: bazooka_73
+    21300148: bazooka_74
+    21300150: bazooka_75
+    21300152: bazooka_76
+    21300154: bazooka_77
+    21300156: bazooka_78
+    21300158: bazooka_79
+    21300160: bazooka_80
+    21300162: bazooka_81
+    21300164: bazooka_82
+    21300166: bazooka_83
+    21300168: bazooka_84
+    21300170: bazooka_85
+    21300172: bazooka_86
+    21300174: bazooka_87
+    21300176: bazooka_88
+    21300178: bazooka_89
+    21300180: bazooka_90
+    21300182: bazooka_91
+    21300184: bazooka_92
+    21300186: bazooka_93
+    21300188: bazooka_94
+    21300190: bazooka_95
+    21300192: bazooka_96
+    21300194: bazooka_97
+    21300196: bazooka_98
+    21300198: bazooka_99
+    21300200: bazooka_100
+    21300202: bazooka_101
+    21300204: bazooka_102
+    21300206: bazooka_103
+    21300208: bazooka_104
+    21300210: bazooka_105
+    21300212: bazooka_106
+    21300214: bazooka_107
+    21300216: bazooka_108
+    21300218: bazooka_109
+    21300220: bazooka_110
+    21300222: bazooka_111
+    21300224: bazooka_112
+    21300226: bazooka_113
+    21300228: bazooka_114
+    21300230: bazooka_115
+    21300232: bazooka_116
+    21300234: bazooka_117
+    21300236: bazooka_118
+    21300238: bazooka_119
+    21300240: bazooka_120
+    21300242: bazooka_121
+    21300244: bazooka_122
+    21300246: bazooka_123
+    21300248: bazooka_124
+    21300250: bazooka_125
+    21300252: bazooka_126
+    21300254: bazooka_127
+    21300256: bazooka_128
+    21300258: bazooka_129
+    21300260: bazooka_130
+    21300262: bazooka_131
+    21300264: bazooka_132
+    21300266: bazooka_133
+    21300268: bazooka_134
+    21300270: bazooka_135
+    21300272: bazooka_136
+    21300274: bazooka_137
+    21300276: bazooka_138
+    21300278: bazooka_139
+    21300280: bazooka_140
+    21300282: bazooka_141
+    21300284: bazooka_142
+    21300286: bazooka_143
+    21300288: bazooka_144
+    21300290: bazooka_145
+    21300292: bazooka_146
+    21300294: bazooka_147
+    21300296: bazooka_148
+    21300298: bazooka_149
+    21300300: bazooka_150
+    21300302: bazooka_151
+    21300304: bazooka_152
+    21300306: bazooka_153
+    21300308: bazooka_154
+    21300310: bazooka_155
+    21300312: bazooka_156
+    21300314: bazooka_157
+    21300316: bazooka_158
+    21300318: bazooka_159
+    21300320: bazooka_160
+    21300322: bazooka_161
+    21300324: bazooka_162
+    21300326: bazooka_163
+    21300328: bazooka_164
+    21300330: bazooka_165
+    21300332: bazooka_166
+    21300334: bazooka_167
+    21300336: bazooka_168
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bazooka_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1275
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1275
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1275
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1275
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1275
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1275
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1229
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1229
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1230
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1230
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1229
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1229
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1229
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1229
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1230
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1230
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_16
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1229
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1181
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1181
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1181
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1181
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1181
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1131
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1131
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1131
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1131
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1131
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1131
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1085
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1085
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_30
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1085
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1087
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1090
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_33
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1091
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_34
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1085
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1085
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1038
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1038
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_38
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1038
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 977
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 977
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_41
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 977
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_42
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 977
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_43
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 977
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 977
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_45
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 977
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_46
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 977
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_47
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 977
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_48
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 977
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_49
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 977
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 931
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 931
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_52
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 931
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 877
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_54
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 877
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_55
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 877
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_56
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 877
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_57
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 877
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_58
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 877
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_59
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 877
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_60
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 877
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_61
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 877
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_62
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 833
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_63
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 833
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_64
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 833
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 833
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_66
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 833
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_67
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 833
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_68
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 833
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_69
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 833
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 787
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_71
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 787
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 788
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 798
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_74
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 798
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_75
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 796
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_76
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 793
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_77
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 787
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_78
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 758
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_79
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 758
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 758
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_81
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 758
+        width: 56
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_82
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 758
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_83
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 758
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_84
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 714
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_85
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 714
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_86
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 714
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_87
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 714
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_88
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 714
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_89
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 672
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_90
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 670
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 670
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_92
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 670
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_93
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 670
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_94
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 670
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_95
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 670
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_96
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 670
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_97
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 670
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_98
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 670
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_99
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 616
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 616
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_101
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 616
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_102
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 616
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_103
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 617
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_104
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 616
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_105
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 615
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_106
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 614
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_107
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 615
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_108
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 613
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_109
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 614
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 550
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_111
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 577
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_112
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 578
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_113
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 578
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_114
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 577
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_115
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 576
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_116
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 576
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_117
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 576
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_118
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 576
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_119
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 577
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_120
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 578
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_121
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 578
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_122
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 578
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_123
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 582
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_124
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 585
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_125
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 583
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_126
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 586
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_127
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 557
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_128
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 557
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_129
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 557
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_130
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 557
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_131
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 526
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_132
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 524
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_133
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 521
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_134
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 519
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_135
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 516
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_136
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 515
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_137
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 515
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_138
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 515
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_139
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 516
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_140
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 518
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_141
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 521
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_142
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 524
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_143
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 469
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_144
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 469
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_145
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 469
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_146
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 469
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_147
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 469
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_148
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 469
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_149
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 469
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_150
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 469
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_151
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 423
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_152
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 377
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_153
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 374
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_154
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 371
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_155
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 363
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_156
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 361
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_157
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 358
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_158
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 353
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_159
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 352
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_160
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 329
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_161
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 330
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_162
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 330
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_163
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 333
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_164
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 335
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_165
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 336
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_166
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 336
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_167
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 340
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bazooka_168
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 340
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
